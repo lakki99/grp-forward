@@ -1,9 +1,9 @@
 import os
 from pyrogram import Client, filters
 
-API_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+API_ID = int(os.environ.get("30645970"))
+API_HASH = os.environ.get("2c48e706842683ac68160cdd0d5560f8")
+BOT_TOKEN = os.environ.get("8793396352:AAFrMNoAHteI7uoH52oF9T6-pHaFqTaVI5s")
 
 SOURCE_GROUP = int(os.environ.get("-1002294325631"))
 TARGET_CHANNEL = int(os.environ.get("-1003775458189"))
